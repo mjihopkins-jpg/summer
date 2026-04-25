@@ -43,7 +43,7 @@ url: https://connor-baer.github.io
 baseurl: /summer
 assets: /assets
 images: /images/
-image: index-large.jpg
+image: logo.png
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
@@ -68,7 +68,7 @@ github:
 # typekit:              fcv7rfe
 
 google_fonts:
-  Playwrite Norge: 400, 600, 800
+  Overpass: 400, 600, 800
 
 # google_analytics_key: UA-37412525-4
 # google_site_verification: Z-pc_HPc4XNBz8xg1fgtxO2MSIYLirZc2jWTNq0bJyM
